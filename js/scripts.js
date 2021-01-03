@@ -48,7 +48,7 @@ jQuery(window).ready(function(){
 			jQuery(".nav-bar").removeClass("fixed");
 			
 		}
-		if(screenSize>435){
+		if(screenSize>420){
 				jQuery(".scroll-bottom-top").show();
 				
 			}
