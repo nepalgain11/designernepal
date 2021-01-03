@@ -1,0 +1,153 @@
+@media all and (max-width:992px){
+	.manu-bar ul a{
+		font-size: 15px;
+		font-weight: 400;
+		margin-right: 18px;
+	}
+	.header-text h1{
+		font-size: 50px;
+	}
+	.services-menu .text p{
+		 font-size: 14px;
+	}
+	.services-menu{
+		padding: 14px 16px;
+	}
+	.services-fst-part{
+		padding-right:0;
+	}
+	.services-fst-part p{
+		font-size:14px;
+		margin-bottom:0;
+	}
+	.care-img{
+		width:230px;
+	}
+	.blog-text-area {
+		width: 47%;
+	}
+	
+	.subscribe-main-area{
+		width:100%;
+	}
+		
+	.subscribe-area form{
+		overflow:hidden;
+	}
+	.subscribe-area .form-group{
+		float:left;
+		width:100%;
+	}
+	.subs-text h2{
+		font-size:22px;
+	}
+	.services-menu:hover	.learn-icon{
+		opacity:1;
+		position: absolute;
+		top: 105%;
+	}
+
+
+
+
+
+
+
+}
+
+@media all and (max-width:768px){
+	.social-media{
+		justify-content:center;
+	}
+	.logo-link-class{
+		text-align:center;
+		display:block
+	}
+	form{
+		margin:25px 0;
+	}
+	.nav-bar{
+		display:none; 
+	}
+	.bar-nav-menu{
+		display:block;
+	}
+	.header-text h1{
+		font-size: 40px;
+	}
+	.services-menu .text p{
+		 font-size: 14px;
+	}
+	
+	.services-menu{
+		padding: 14px 0px;
+	}
+	.services-fst-part p{
+		font-size:14px;
+		margin:20px 0;
+	}
+	
+	.services-bg .icon-video{
+		right:40%;
+	}
+	.care-img{
+			width:250px;
+		}
+	
+	.contact-bg-area  h3{
+		text-align:left;
+	}
+	.blog-text-area{
+		width:26%
+	}
+	.subscribe-area form{
+		width:100%;
+	}
+	form input[type="mail"]{
+		width:80%;
+	}
+	.subs-text {
+		width:100%;
+	}
+	.services-menu .learn-icon{
+		left:45%;
+	}
+	 .bar-nav-menu .logo-link-class span{
+		color:white ;
+	
+	}
+}
+	
+	@media all and (max-width:480px){
+		.services-menu .learn-icon{
+			 left: 45%;
+		}
+		.services-icon {
+			right:0;
+		}
+		.care-img{
+			width:350px;
+		}
+		.blog-text-area{
+			width:41%
+		}
+		form input[type="mail"]{
+			width:60%;
+		}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	}
+	
+	
+	
+	
+	
